@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Eirini, an AI Engineer / Full-stack Data Scientist. _Full-stack_ = I take data projects from POC to production. _AI Engineer_ = I use LLMs in production.  
+Data Science is fascinatingly vast and so is AI Engineering, thus I learn as I go ([Just-in-Time learning](https://xcancel.com/radekosmulski/status/1828564396265926967)). 
+
+- 🌱 I’m currently learning how to leverage [Deno](https://deno.com/) with [TypeScript](https://www.typescriptlang.org/) for AI Engineering and Data Science applications. Here's [why](https://ai-mindset.github.io/posts/deno/)
+- 💼 I’m looking for remote-first job opportunities in companies with a [**good culture**](https://xcancel.com/math_rachel/status/939968380202762240)
+- 📫 How to reach me: [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/320px-LinkedIn_2021.svg.png" width="80" height="20" style="vertical-align: bottom;" />](https://www.linkedin.com/in/eirinikomninou)
+
+🙏 Thanks very much for visiting!
+
 <!--
 **ai-mindset/ai-mindset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
