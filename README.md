@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Eirini, an AI Engineer / Full-stack Data Scientist. _Full-stack_ = I take data projects from POC to production. _AI Engineer_ = I use LLMs in production.  
+I'm Eirini, an AI Engineer / Full-stack Data Scientist. _Full-stack_ = I take data projects from POC to production. _AI Engineer_ = I use LLMs and agents in production.  
 Data Science is fascinatingly vast and so is AI Engineering, thus I learn as I go ([Just-in-Time learning](https://xcancel.com/radekosmulski/status/1828564396265926967)). 
 
 - 🌱 I’m currently learning how to leverage [Deno](https://deno.com/)[^1] for AI Engineering and Data Science applications. Here's [why](https://ai-mindset.github.io/2024/09/05/deno.html)
