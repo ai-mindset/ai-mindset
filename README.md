@@ -13,7 +13,7 @@ Data Science is fascinatingly vast and so is AI Engineering, thus I learn as I g
 🙏 Thanks very much for visiting!
 
 
-[^1]: 🚧 Blog post listing sources is WIP
+[^1]: 🚧 My blog post listing sources is still WIP
 <!--
 **ai-mindset/ai-mindset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
