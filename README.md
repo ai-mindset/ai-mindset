@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm Eirini, a minimalist Machine Learning Engineer, LLM.  
-Artificial Intelligence is fascinatingly vast, thus I learn as I go ([Just-in-Time learning](https://xcancel.com/radekosmulski/status/1828564396265926967)). 
+I'm Eirini, a minimalist AI/ML Engineer.  
+Artificial Intelligence is fascinatingly vast, thus I learn as I go ([Just-in-Time learning](https://xcancel.com/radekosmulski/status/1828564396265926967)) aka Adaptive Learning. 
 
 - 🌱 I’m a proponent of [simple, modern toolchains](https://ai-mindset.github.io/bring-it-back-to-basics/), and alternative toolstacks such as [Deno](https://ai-mindset.github.io/deno/)
 - 💼 I’m looking for [remote job](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom) opportunities in companies with a [**good**](https://rachel.fast.ai/posts/2015-07-27-not-pipeline/) [**culture**](https://xcancel.com/math_rachel/status/939968380202762240)
