@@ -3,7 +3,7 @@
 I'm Eirini, a minimalist AI/ML Engineer.  
 Artificial Intelligence is fascinatingly vast, thus I learn as I go ([Just-in-Time learning](https://xcancel.com/radekosmulski/status/1828564396265926967)). 
 
-- 🔭 I’m a proponent of [simple, modern toolchains](https://ai-mindset.github.io/bring-it-back-to-basics/), and lightweight toolstacks such as [Go](https://ai-mindset.github.io/go-pragmatic-modern-development/) or [TypeScript with Deno](https://ai-mindset.github.io/deno/)
+- 🔭 I’m a proponent of [simple, modern toolchains](https://ai-mindset.github.io/bring-it-back-to-basics/), and lightweight toolstacks such as [TypeScript with Deno](https://ai-mindset.github.io/deno/) or [Go](https://ai-mindset.github.io/go-pragmatic-modern-development/)
 - 💼 I’m looking for [remote job](https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom) opportunities in companies with a [**good**](https://rachel.fast.ai/posts/2015-07-27-not-pipeline/) [**culture**](https://xcancel.com/math_rachel/status/939968380202762240)
 - 📖 I stay informed about emerging tech trends by avidly consuming curated content from [authoritative sources](https://ai-mindset.github.io/aihub/) 
 
