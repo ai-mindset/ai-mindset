@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Eirini, a minimalist AI/ML Engineer inspired by [fast.ai](https://www.fast.ai/)'s practical deep learning.  
+I'm Eirini, a minimalist AI/ML Engineer inspired by [fast.ai](https://www.fast.ai/)'s practical approach.  
 With AI's vast landscape, I embrace [Just-in-Time learning](https://xcancel.com/radekosmulski/status/1828564396265926967).  
 
 - 🔭 Proponent of [simple, modern toolchains](https://ai-mindset.github.io/bring-it-back-to-basics/), and lightweight toolstacks such as [TypeScript with Deno](https://ai-mindset.github.io/deno/) or [Go](https://ai-mindset.github.io/go-pragmatic-modern-development/).
