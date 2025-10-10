@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a minimalist AI Engineer inspired by 🤓 [fast.ai](https://www.fast.ai/)'s practical approach.  
+I'm a minimalist AI Engineer inspired by 🤓 the [fast.ai](https://www.fast.ai/) / [answer.ai](https://www.answer.ai/) practical approach.  
 With AI's vast landscape, I embrace 📖 [Just-in-Time learning](https://xcancel.com/radekosmulski/status/1828564396265926967).  
 
 - 🔭 Proponent of [simple, modern toolchains](https://ai-mindset.github.io/bring-it-back-to-basics/), and lightweight toolstacks such as [TypeScript with Deno](https://ai-mindset.github.io/deno/) or [Go](https://ai-mindset.github.io/go-pragmatic-modern-development/).
